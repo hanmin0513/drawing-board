@@ -1,0 +1,137 @@
+@font-face {
+  font-family: 'iconfontkpl';
+  src: url('iconfont.eot?t=1594175772653');
+  /* IE9 */
+  src: url('iconfont.eot?t=1594175772653#iefix') format('embedded-opentype'),
+    /* IE6-IE8 */
+      url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAArUAAsAAAAAFtwAAAqFAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCFeAqYTJN0ATYCJAN4Cz4ABCAFhREHhHgbfhMz0lBOip7svz6wjaWHfSuKhOh4ro5P8aj0sAUxyKLBgf20x13hdLHBLf4VhsnBtWxhfo0DP+3xwP997b7l/1mWBWgoDjsep2Ej0LoRJZwl1g4+/z9u+jd5garCdqhoOg/MK1jNAlUhKTPzZKYWvjnMPP1WsQUC27Z7c8xHz6RMAQRsqivT97J5+jEFmNi+9zFnHLmAXE4W7bGxcT8YEehkTpU6lpxLbifHafsa8g8fXxSMAKzuJ7e/JE4RbI8ABDWA+tPat7p7YohX91AsJUob+zI778vD90y9gSe6ePM9EWmIVZppoxJSAyLMLSbBJNVUsK3gVex1x9QE1K1thIO7l5/CWWaMQKGtM7Jw3jku5ywLqu5SGDILr2Sq8S4KwIv9/eEP1REViZnWIXPbFdq30z43oTm7OcrRhfnXMzEejoQNMuFRDLuGYrmxqi6FEY7yjUypzy9JfELAK/tOWFqZW5iaGZsYGukb6Opp62hoaqmrqaoolAbsOv/xIqFkCjYhbElf8QneTpZ8IpeAgeYABy0AAZoCEjQDFGgMaNAEMKAhYEEjwIH6gAcNgADqAhHUAxKoDWRQByigBlBBTaCBWkAH1YEBqgETVAUWqAJsUAEcUAlcUAIIlIGHeF8FZUSwDobYxx7pDeR3xvVvVfFmyqhrOGGlJNQQa0udFTOWXFkWp5hUP62xcWIhn/cKnl6u4GzrPL4QWPJgyrSI6dM9XsTSwYU88S4WTgFs5hhygAEBH80oRBAjgLBNLHiDaJcYo+nAkxKhIo5xjSo+422vphctH83YUAqR2eOkHshHOcNTycXAV09hlc6RB9OLvC4Mt0ob4ChaTu5qDERAPc+Sg3EnsSh+nHQSQonyLY6fV7uyx9N8Nkpm+6hgroWZJqqbefXM99A3kXCSW0VPMU5tM9VNzLSIWKaPiFbcSuEidumfXU1O/9Fr/hoRnMuctJde2eXk9Au94qVZFZx7LS+ldiY5PaL/mmWZZHtp9RFZW+5IHs54AbE8hGAOoHIMPAzviyN/TyUktKyKe6sy2BRHyXDXgaG0rT3YbalSGRyKEgC1qvbjac9248pga1gbQEENtcn2YXEJjeGIathT5RHjhLUcOgdDE3lj75ULRz/DH+vtlEyozw0moHjLyFRvKG3Y2JbNWHs+4th17AYS3zDnCPrix9HDapmdYcfEfKAeTZK7ZHcgtmRHf6DgNernUg621NHk0TyK69t6tCQg5qCioJYVzdc5MhWhM/228Cw4DgOj4uBp+NDgy94XUwnak4y2+jC7uBfU5KsCkbIx0C/o0GfDZhkz46NbEmfDg0kr0Ropy9f++zX1kaa1B8+6Gp1b6Cssot9L2rPHD5PO0kDT2sp9iNILa1++3St1SWtqDHMdwyK6TWgnlx78mEq7shkY731wF26ce88b5yHmQVF+6FXf6xkBbow7V+OKsP3155f1IM45Q5a9fNuyz7P8M21R+Wwq52yLH/t+91lU5TlPfXlxB+APKHOPajFK3nv1bXsuSsBXYaC+pO8zzV+p/2iLyP13cJS0/+xEr2hlVNWD7PHFKAXPcoITzfKC5KUzPCtwsC2vjTHHKC6DHh07UAqG6jcf6X0svRcODM4Ib1L86brL9U9FRLaiJ0HRODW1+agfQ4GgyBMChYBja3+LlHPAqfEL/iv65fntVY/ZnbfAsH2bQ36izs2o0y30zzkTIV8Y/8nimE9RpzQcN3FBzdl51Zq+lyLkC8oGR99MNevpmjyTuoAycNw1g9wNfS0IsMO6z52REV1paSMbVO7ShpEqHhcTyS9jvuZkCCzNyBE4FwpGlHsu8Qbj5W2oabKl/jjatfPabpl20KR6i6BKp1UZMASFPpmAWlqtxHFs0k5hkswpGdc302Dgnc4/s/DWAoaxQe7KHMJF9++gof+4X+26dqPFIspvmNxsp40kCGdYlmcZxjLsD/78/DX2q9XaGCempn4lVbIjztGVfDg+kRRT07hNF8KHWzmrtYt0xD5LSx09PbYxbFyAPYAlhB4CEfRjz7ew3434tduvIz1Zz5H2MxlBi19JMS31GWknu1LTRBLMislwaDSah1lrKzNccX2AsSITG7WOmVBfkSVffWhNXHp+fGTxpisbh2h7Vep7wUOF1h5Afuf3uG9838d+pEDs1EV4jvhN+dsIT5s6UOgpBKptw7lCyQcxh8wRT58WX5NvvqxZ48iJy3GcOe34n2yynxuxm90WdVP9+++/Ob399kXXAeWxkgfe3QO4NwwwdLu8/xPFSkpOe3p2FLFAvzoWNhdZQKRG7Rtmeg+ccp6t9Hzv4a+qU1+9TFHu2DvP/PJVqueylw8SnSS/NGBbvbkuv3bsLqCyfIoS0wu8DyctP+n5rqzB8Vn99m/xy4hXlc+uqhzCGozZwRkrQ//OiQ/Rrh1O35vfo3hmOVCWsaVD02jZUGPa0DHqRn/Tp8UjTkyuC61f2cAYYHx2VnGZrNupWL3m8ed12wb/1btqaR2EIvUl1NTkkkMC6ldLs9FkfMcOHOdkTXFoWjq78jjx9i1x3CEB9aul2Wrm4ceO4TjnaYpDR4BF0TJnv3ixRVq1ZQV/L6sYaTCa6D3OoG6ts1VVtVKrKGMV+M0eIE+7Cza9N84ba2aYQtd2pvYaSYVw6Jc3uq83fMikI2wID9rCQi3wLgktQMuHsEcmXbLwLyv3zLyrMjsLECQ+UqsMV2ojeSyzvj4T23ZG+s7w5LbXOd5VdPX6gdmS1Il0FtlQNpgfQk/4OwDpLRYpbRAAkyjaiaX0dTczY2g+gHTqHJlLxms86l5GvVc+kEd6aQeqzQubhoySryatJV1DLro1/trcxktdae4/GRN94Iqq3/2LWwEkwTmkOWfFKYJL5iG8CrXlid+qrsD5dMu5Kq/4Jme3/1+Jf/agu9tqzToJzn8QDexM9stUhcCkrxBhYjcnVMSiHh49o/55TaV4JTaowAzyFByAq5MIIIGJ8gVHVV0BpVkg3XbEeBPOSegmxE2MTvhTusw/QZf7p21y1QNM2d34wSxABGeXiDhYyyZMIFzdhPP0vUSS/zNJ4N+kyRZ5GfUV/3fTBvwdOMZNuPgHA4Fk6MRoKZyKQbuneCP6wUnCLzBTlHRQPVn7B5Td1aIpayHzHgLQ9frJM9Nj1kJT9OJuMD1AjCJRHIPi0jKnYVXp1TxKFX2xAdcIkBjoCCPL4EBHiQJ9ZbZx8C+ZSNAXYEwhifLrIRz4B5DM3R+hUarL6fcqlK21ijmzGaOnlzFtarSUPnbdaQkqL4qEJJtjQBor2TNSkqHKaU2XVWUlXP5zUvCC1mkGVhVIFBqDxeF/gJ43iUyh0nb7w/F0vlxv98fz9f7YNQGC6rtu27dIXuKmGRacFtkuSBilmGiSM2B1QejiEhr+4tGLC/APzlhu68GRI/aP2PNvjMN3qEL7yBKdyvMCW1kyA22pvczIq4iVLLRtBASeXLqdTAV7OrhziO21I4Vane7n+QLFMrz6Nqmn/RuS8/aSKM4fo/qBvctEiaOvaJqtUHZ8j2y3tB855ECsfU/vcBOnI4S7tn4u1XIB1mqO/YP2alyxjsa1fi7Z1bGiAAAA')
+      format('woff2'),
+    url('iconfont.woff?t=1594175772653') format('woff'), url('iconfont.ttf?t=1594175772653') format('truetype'),
+    /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */ url('iconfont.svg?t=1594175772653#iconfontkpl') format('svg');
+  /* iOS 4.1- */
+}
+
+[class^='icon_kpl'],
+[class*=' icon_kpl'] {
+  font-family: 'iconfontkpl' !important;
+  font-size: 20px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon_kpl_Selected_Normal:before {
+  content: '\e695';
+}
+
+.icon_kpl_Text_Normal:before {
+  content: '\e696';
+}
+
+.icon_kpl_Upload_Normal:before {
+  content: '\e693';
+}
+
+.icon_kpl_Save_Normal:before {
+  content: '\e694';
+}
+
+.icon_kpl_Undo_Normal:before {
+  content: '\e691';
+}
+
+.icon_kpl_Redo_Normal:before {
+  content: '\e692';
+}
+
+.icon_kpl_LineWeight_04_Normal:before {
+  content: '\e690';
+}
+
+.icon_kpl_LineWeight_03_Normal:before {
+  content: '\e68f';
+}
+
+.icon_kpl_LineWeight_02_Normal:before {
+  content: '\e68e';
+}
+
+.icon_kpl_LineWeight_01_Normal:before {
+  content: '\e68d';
+}
+
+.icon_kpl_Font_Italics_Normal:before {
+  content: '\e68a';
+}
+
+.icon_kpl_Laser_Normal:before {
+  content: '\e68b';
+}
+
+.icon_kpl_Font_Bold_Normal:before {
+  content: '\e68c';
+}
+
+.icon_kpl_Delete_Normal:before {
+  content: '\e688';
+}
+
+.icon_kpl_Eraser_Normal:before {
+  content: '\e689';
+}
+
+.icon_kpl_Fill_Circle_Normal:before {
+  content: '\e686';
+}
+
+.icon_kpl_Fill_Rectangular_Normal:before {
+  content: '\e687';
+}
+
+.icon_kpl_Draw_Arrow_Normal:before {
+  content: '\e684';
+}
+
+.icon_kpl_Draw_Arrow_Selected:before {
+  content: '\e685';
+}
+
+.icon_kpl_Draw_Brush_Normal:before {
+  content: '\e682';
+}
+
+.icon_kpl_Draw_Brush_Selected:before {
+  content: '\e683';
+}
+
+.icon_kpl_Draw_Circle_Selected:before {
+  content: '\e680';
+}
+
+.icon_kpl_Draw_Circle_Normal:before {
+  content: '\e681';
+}
+
+.icon_kpl_Draw_DoubleArrow_Normal:before {
+  content: '\e67e';
+}
+
+.icon_kpl_Draw_DoubleArrow_Selected:before {
+  content: '\e67f';
+}
+
+.icon_kpl_Draw_Line_Selected:before {
+  content: '\e67c';
+}
+
+.icon_kpl_Draw_Line_Normal:before {
+  content: '\e67d';
+}
+
+.icon_kpl_Draw_Rectangular_Normal:before {
+  content: '\e67a';
+}
+
+.icon_kpl_Draw_Rectangular_Selected:before {
+  content: '\e67b';
+}

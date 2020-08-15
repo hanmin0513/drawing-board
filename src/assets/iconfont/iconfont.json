@@ -1,0 +1,212 @@
+{
+  "id": "1930107",
+  "name": "KPLine_MeetingControl",
+  "font_family": "iconfontkpl",
+  "css_prefix_text": "icon_kpl_",
+  "description": "鲲鹏互联会控图标",
+  "glyphs": [
+    {
+      "icon_id": "15777687",
+      "name": "Selected_Normal",
+      "font_class": "Selected_Normal",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    },
+    {
+      "icon_id": "15777688",
+      "name": "Text_Normal",
+      "font_class": "Text_Normal",
+      "unicode": "e696",
+      "unicode_decimal": 59030
+    },
+    {
+      "icon_id": "15777684",
+      "name": "Upload_Normal",
+      "font_class": "Upload_Normal",
+      "unicode": "e693",
+      "unicode_decimal": 59027
+    },
+    {
+      "icon_id": "15777685",
+      "name": "Save_Normal",
+      "font_class": "Save_Normal",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    },
+    {
+      "icon_id": "15777673",
+      "name": "Undo_Normal",
+      "font_class": "Undo_Normal",
+      "unicode": "e691",
+      "unicode_decimal": 59025
+    },
+    {
+      "icon_id": "15777674",
+      "name": "Redo_Normal",
+      "font_class": "Redo_Normal",
+      "unicode": "e692",
+      "unicode_decimal": 59026
+    },
+    {
+      "icon_id": "15777669",
+      "name": "LineWeight_04_Normal",
+      "font_class": "LineWeight_04_Normal",
+      "unicode": "e690",
+      "unicode_decimal": 59024
+    },
+    {
+      "icon_id": "15777668",
+      "name": "LineWeight_03_Normal",
+      "font_class": "LineWeight_03_Normal",
+      "unicode": "e68f",
+      "unicode_decimal": 59023
+    },
+    {
+      "icon_id": "15777665",
+      "name": "LineWeight_02_Normal",
+      "font_class": "LineWeight_02_Normal",
+      "unicode": "e68e",
+      "unicode_decimal": 59022
+    },
+    {
+      "icon_id": "15777661",
+      "name": "LineWeight_01_Normal",
+      "font_class": "LineWeight_01_Normal",
+      "unicode": "e68d",
+      "unicode_decimal": 59021
+    },
+    {
+      "icon_id": "15777598",
+      "name": "Font_Italics_Normal",
+      "font_class": "Font_Italics_Normal",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    },
+    {
+      "icon_id": "15777599",
+      "name": "Laser_Normal",
+      "font_class": "Laser_Normal",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    },
+    {
+      "icon_id": "15777600",
+      "name": "Font_Bold_Normal",
+      "font_class": "Font_Bold_Normal",
+      "unicode": "e68c",
+      "unicode_decimal": 59020
+    },
+    {
+      "icon_id": "15777592",
+      "name": "Delete_Normal",
+      "font_class": "Delete_Normal",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    },
+    {
+      "icon_id": "15777593",
+      "name": "Eraser_Normal",
+      "font_class": "Eraser_Normal",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "15777564",
+      "name": "Fill_Circle_Normal",
+      "font_class": "Fill_Circle_Normal",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    },
+    {
+      "icon_id": "15777565",
+      "name": "Fill_Rectangular_Normal",
+      "font_class": "Fill_Rectangular_Normal",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    },
+    {
+      "icon_id": "15777540",
+      "name": "Draw_Arrow_Normal",
+      "font_class": "Draw_Arrow_Normal",
+      "unicode": "e684",
+      "unicode_decimal": 59012
+    },
+    {
+      "icon_id": "15777541",
+      "name": "Draw_Arrow_Selected",
+      "font_class": "Draw_Arrow_Selected",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "15777537",
+      "name": "Draw_Brush_Normal",
+      "font_class": "Draw_Brush_Normal",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    },
+    {
+      "icon_id": "15777538",
+      "name": "Draw_Brush_Selected",
+      "font_class": "Draw_Brush_Selected",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    },
+    {
+      "icon_id": "15777527",
+      "name": "Draw_Circle_Selected",
+      "font_class": "Draw_Circle_Selected",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "15777528",
+      "name": "Draw_Circle_Normal",
+      "font_class": "Draw_Circle_Normal",
+      "unicode": "e681",
+      "unicode_decimal": 59009
+    },
+    {
+      "icon_id": "15777506",
+      "name": "Draw_DoubleArrow_Normal",
+      "font_class": "Draw_DoubleArrow_Normal",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "15777507",
+      "name": "Draw_DoubleArrow_Selected",
+      "font_class": "Draw_DoubleArrow_Selected",
+      "unicode": "e67f",
+      "unicode_decimal": 59007
+    },
+    {
+      "icon_id": "15777502",
+      "name": "Draw_Line_Selected",
+      "font_class": "Draw_Line_Selected",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "15777503",
+      "name": "Draw_Line_Normal",
+      "font_class": "Draw_Line_Normal",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "15777496",
+      "name": "Draw_Rectangular_Normal",
+      "font_class": "Draw_Rectangular_Normal",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "15777497",
+      "name": "Draw_Rectangular_Selected",
+      "font_class": "Draw_Rectangular_Selected",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    }
+  ]
+}
